@@ -4,3 +4,5 @@
 ![code quality](https://www.code-inspector.com/project/28889/score/svg)
 
 ![code Grade](https://www.code-inspector.com/project/28889/status/svg)
+
+[![Cppcheck](https://github.com/prathameshpatil505/Stepin_EmbededC_SeatHeater/actions/workflows/Codequality.yml/badge.svg)](https://github.com/prathameshpatil505/Stepin_EmbededC_SeatHeater/actions/workflows/Codequality.yml)
